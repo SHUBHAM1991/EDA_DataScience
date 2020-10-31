@@ -25,7 +25,7 @@ __Machine Learning focuses on the development of computer programs__ that can ac
 The process of learning begins with data, such as, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. __The primary aim is to allow the computers learn automatically__ without human intervention or assistance and adjust actions accordingly.
 <br><br>
 
-List Of contents
+### List Of Contents
 
 
 
