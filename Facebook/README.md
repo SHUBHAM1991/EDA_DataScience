@@ -13,3 +13,4 @@ Facebook users provide Facebook with a huge wealth of information which can be u
 
 Optimizing the advertising strategy may well mean different things for different businesses, but in each case the end goal of any analysis is to provide actionable answers to the relevant questions which can drive business performance, however that may be measured. Common aims may be to:
 
+[Facebook Jupyter Notebook](https://github.com/SHUBHAM1991/EDA_DataScience/blob/main/Facebook/facebook_eda.ipynb "Facebook Jupyter Notebook")
